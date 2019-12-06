@@ -4,7 +4,7 @@
 
 镜像源：[xzsk2/lede](https://github.com/xzsk2/lede)
 
-workflow来自：[xzsk2/Actions-OpenWrt](https://github.com/xzsk2/Actions-OpenWrt)
+workflow来自：[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 
 插件列表：
 
