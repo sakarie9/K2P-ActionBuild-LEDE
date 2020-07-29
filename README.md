@@ -11,22 +11,10 @@ workflow来自：[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-Open
 插件列表：
 
 ```
-CONFIG_PACKAGE_luci-app-arpbind
-CONFIG_PACKAGE_luci-app-autoreboot
-CONFIG_PACKAGE_luci-app-ddns
-CONFIG_PACKAGE_luci-app-firewall
-CONFIG_PACKAGE_luci-app-flowoffload
-CONFIG_PACKAGE_luci-app-mtwifi
-CONFIG_PACKAGE_luci-app-ramfree
-CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-webui
-CONFIG_PACKAGE_luci-app-rclone_INCLUDE_rclone-ng
-CONFIG_PACKAGE_luci-app-rclone_INCLUDE_fuse-utils
-CONFIG_PACKAGE_luci-app-ssr-plus
-CONFIG_PACKAGE_luci-app-unblockmusic
-CONFIG_UnblockNeteaseMusic_Go
-CONFIG_PACKAGE_luci-app-upnp
-CONFIG_PACKAGE_luci-app-vlmcsd
-CONFIG_PACKAGE_luci-app-vsftpd
-CONFIG_PACKAGE_luci-app-wol
+luci-app-flowoffload
+luci-app-mtwifi
+luci-app-passwall
+luci-app-unblockmusic
+UnblockNeteaseMusic_Go
 ipv6helper
 ```
